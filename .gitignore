@@ -1,0 +1,5 @@
+# Build outputs from iverilog/vvp
+sim/
+
+# Waveform dumps (can be many MB)
+*.vcd
